@@ -9,10 +9,10 @@ The tool operates with its own input system.<br>
 The tool incorporates background data into its parameters via user input, eliminating the need for the user to know or memorize any parameters.<br>
 It is an automated penetration testing tool developed for wireless network penetration testing
 ## Includes
--Aircrack-ng: Used for cracking WEP and WPA/WPA2-PSK keys.
--Airmon-ng: Used for enabling and disabling monitor mode on wireless interfaces.
--Aireplay-ng: Used for injecting packets into a wireless network to generate traffic.
--Airodump-ng: Used for capturing packets from wireless networks.
+*Aircrack-ng: Used for cracking WEP and WPA/WPA2-PSK keys.<br>
+*Airmon-ng: Used for enabling and disabling monitor mode on wireless interfaces.<br>
+*Aireplay-ng: Used for injecting packets into a wireless network to generate traffic.<br>
+*Airodump-ng: Used for capturing packets from wireless networks.<br>
 ## Usage
 > git clone https://github.com/favian-jpt/wiCrack.git<br>
 > sudo chmod +x wiCrack.sh<br>
